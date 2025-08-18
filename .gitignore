@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.pkl
+/data/
+
+# Ngrok related files
+ngrok.exe
+/deployment/ngrok.exe
+ngrok.yml
+
+# Streamlit
+.streamlit/
+
+# Logs and temporary files
+*.log
+tmp/
