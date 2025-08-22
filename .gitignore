@@ -210,7 +210,6 @@ __marimo__/
 *.csv
 *.xlsx
 *.json
-*.pkl
 /data/
 
 # Ngrok related files
